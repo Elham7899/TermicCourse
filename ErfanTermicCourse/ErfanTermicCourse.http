@@ -1,0 +1,6 @@
+@ErfanTermicCourse_HostAddress = http://localhost:5125
+
+GET {{ErfanTermicCourse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
